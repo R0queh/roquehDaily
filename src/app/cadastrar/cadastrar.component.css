@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url("../../assets/img/pexels-photo-2343475.jpeg");
+
+    min-height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
